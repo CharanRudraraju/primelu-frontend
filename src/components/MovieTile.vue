@@ -45,7 +45,7 @@ export default defineComponent({
     return {
       movieData: {},
       movieRating: Number(this.rating),
-      omdbUrl: "http://www.omdbapi.com/?apikey=3ffbd3cb&t=",
+      omdbUrl: "https://www.omdbapi.com/?apikey=3ffbd3cb&t=",
     };
   },
   async created() {

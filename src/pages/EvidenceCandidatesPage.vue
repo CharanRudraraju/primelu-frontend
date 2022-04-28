@@ -204,7 +204,7 @@ export default defineComponent({
         r8: 0,
         r10: 0,
       },
-      omdbUrl: "http://www.omdbapi.com/?apikey=3ffbd3cb&t=",
+      omdbUrl: "https://www.omdbapi.com/?apikey=3ffbd3cb&t=",
       movieName: "City Hall",
       slide: ref("ec_1"),
     };

@@ -82,7 +82,7 @@ export default defineComponent({
   data() {
     return {
       movieId: "",
-      omdbUrl: "http://www.omdbapi.com/?apikey=3ffbd3cb&t=",
+      omdbUrl: "https://www.omdbapi.com/?apikey=3ffbd3cb&t=",
       movieName: "City Hall",
       movieData: {},
       imdbRating: "",
